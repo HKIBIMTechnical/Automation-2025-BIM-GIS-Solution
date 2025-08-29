@@ -1,5 +1,7 @@
 # Automation-2025-BIM-GIS-Solution
 
+![image](https://github.com/HKIBIMTechnical/Automation-2025-BIM-GIS-Solution/blob/main/image.png)
+
 This project provides automation scripts for converting BIM (Building Information Modeling) and GIS (Geographic Information System) data into formats suitable for visualization and analysis, such as GeoJSON, KML, and Mapbox-compatible data.
 
 ## Features
