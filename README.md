@@ -1,4 +1,4 @@
-# HKIBIM-BIMAutomationArena-2025-BIM-GIS-Solution
+# BIM+GIS Solution
 
 ![image](https://github.com/HKIBIMTechnical/Automation-2025-BIM-GIS-Solution/blob/main/image.png)
 
